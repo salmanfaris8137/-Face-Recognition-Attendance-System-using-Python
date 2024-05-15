@@ -1,3 +1,7 @@
+
+**Face Recognition Attendance System**
+______________________________________
+
 This is a web application built with Python and Flask that implements a face recognition-based attendance system. 
 The system allows users to register their faces, mark attendance using face recognition, and view attendance records.
 
